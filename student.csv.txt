@@ -1,0 +1,7 @@
+Name,Math,Science,English,History,Computer
+Ayaan,85,78,90,74,88
+Riya,92,88,95,89,91
+Kabir,76,65,80,70,72
+Sneha,89,92,94,90,96
+Arjun,67,58,60,65,63
+Ishita,93,90,97,95,92
